@@ -1,0 +1,3 @@
+buscauto_homepage:
+    path:     /
+    defaults: { _controller: BuscautoBundle:Default:index }
